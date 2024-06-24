@@ -1,0 +1,51 @@
+/* styles.css */
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #f7f7f7;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.quiz-container {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    padding: 20px;
+    text-align: center;
+}
+
+.quiz-header h2 {
+    margin: 0 0 20px;
+}
+
+.quiz-header ul {
+    list-style: none;
+    padding: 0;
+}
+
+.quiz-header ul li {
+    margin-bottom: 10px;
+}
+
+.quiz-header ul li input[type="radio"] {
+    margin-right: 10px;
+}
+
+button {
+    background: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background: #45a049;
+}
