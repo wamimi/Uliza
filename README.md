@@ -25,5 +25,3 @@ Open index.html in your web browser.
 index.html: The main HTML file containing the structure of the quiz app.
 styles.css: The CSS file for styling the quiz app.
 script.js: The JavaScript file containing the logic for the quiz app.
-
-## Reject Finance Bill 2024
